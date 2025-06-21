@@ -6,7 +6,7 @@
 		"skipLibCheck": true,
 		"moduleResolution": "bundler",
 		"allowImportingTsExtensions": true,
-		"verbatimModuleSyntax": true,
+		"verbatimModuleSyntax": false,
 		"moduleDetection": "force",
 
 		/* Настройки для генерации build info */
